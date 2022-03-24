@@ -1,0 +1,129 @@
+.navbar {
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
+#Sidnav {
+  width: 20%;
+  height: calc(100vh - 70px);
+  border-radius: px;
+  
+}
+.sidenav-list {
+  width: 30px;
+  height: 20px;
+  padding: 5px;
+  cursor: pointer;
+  
+}
+.login-image {
+  height: 35px;
+  width: 32px;
+  border-radius: 13px;
+}
+
+.edit-image {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  justify-content: end;
+  cursor: pointer;
+}
+.list-container {
+  padding: 3px;
+  background-color: rgb(253, 253, 63);
+  justify-content: space-between;
+  display: flex;
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  border: 2px solid black;
+}
+.delete-image {
+  width: 30px;
+  height: 40px;
+  border-radius: 30%;
+  cursor: pointer;
+}
+
+.list {
+  background-color: aqua;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.img-container {
+  height: 40px;
+  width: 40px;
+  
+  .list-img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+  }
+}
+
+.edit-icon{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+
+.delete-icon{
+  height: 30px;
+  width: 30px;
+}
+
+.faculty-container{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card{
+  width:280px;
+  height:350px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.labels{
+  justify-content:end;
+  margin-top: 40px;
+  height: 35px;
+  border-radius: 5px;
+  }
+.enrollment-container{
+  background-image: url("https://img.freepik.com/free-vector/pink-oil-painted-canvas-background_53876-93727.jpg?size=626&ext=jpg ");
+  width: 100%;
+  margin-left:10px;
+  color:black;
+  background-attachment: fixed;
+}
+.row{
+  width:85%;
+  height:100%;
+}
+.admit-img{
+  width:100%;
+  margin-bottom: 5px;
+}
+.col-sm-4{
+  height:300px;
+  text-align: center;
+  cursor:pointer;
+}
+.topic{
+  text-align: center;
+  color: rgb(89, 125, 243);
+}
+.btn{
+  border-right: 10px;
+}
+.user-img{
+  height:100px;
+  width:100px;
+ }
+ .move-image{
+   border-radius: 50%;
+  
+ }
